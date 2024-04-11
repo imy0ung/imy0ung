@@ -11,5 +11,6 @@
 
 # :boy: profile
 - 🔭 I’m currently studying on Sejong Univ, Unmanned Vehicle Engineering
-- 🌱 I’m currently learning C++, Kotlin
+- 😊 I'm currently intertestd in Object Detection and Image Recognition based Deep Learning 
+- 🌱 I’m currently learning Python ,C++, Kotlin
 - 📫 How to reach me: jinyoung0569@naver.com
