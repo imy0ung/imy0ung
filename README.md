@@ -10,7 +10,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinyoung0569)](https://solved.ac/jinyoung0569/)
 
 # :boy: profile
-- 🔭 I’m currently studying on Sejong Univ, Unmanned Vehicle Engineering
-- 😊 I'm currently intertestd in Object Detection and Image Recognition based Deep Learning 
-- 🌱 I’m currently learning Python ,C++, Kotlin
+- 🔭 I’m currently studying on Sejong Univ, AI Robotics
+- 😊 I'm currently intertestd in Autonomous Driving based Foundation Models! 
+- 🌱 I’m currently learning Python ,C++, ROS2
 - 📫 How to reach me: jinyoung0569@naver.com
