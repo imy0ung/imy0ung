@@ -11,6 +11,6 @@
 
 # :boy: profile
 - 🔭 I’m currently studying on Sejong Univ, AI Robotics
-- 😊 I'm currently intertestd in Autonomous Driving based Foundation Models! 
+- 😊 I'm currently intertested in Autonomous Driving based Foundation Models! 
 - 🌱 I’m currently learning Python ,C++, ROS2
 - 📫 How to reach me: jinyoung0569@naver.com
